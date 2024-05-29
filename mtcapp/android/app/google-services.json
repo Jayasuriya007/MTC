@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "78659723368",
+    "firebase_url": "https://register-800e8-default-rtdb.firebaseio.com",
+    "project_id": "register-800e8",
+    "storage_bucket": "register-800e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78659723368:android:7d0bab58f8b56dfe3e9bdd",
+        "android_client_info": {
+          "package_name": "com.example.regis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdec5RHEodIGSTexuxmG9SBWm5F1bnBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
